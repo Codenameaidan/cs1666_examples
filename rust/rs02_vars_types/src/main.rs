@@ -12,9 +12,9 @@ fn main() {
 	//x = 6.1;
 
 	//TODO: Assign 6.1 to x without modifying the code above
+		
+	let x = 6.1; //Shadow x
 	
-	//<Your code here>
-
 	println!("This is float x: {}", x);
 
 	// Compiler can still infer a type without same-line initialization
